@@ -1,0 +1,8 @@
+anon.session
+anon.session-journal
+
+venv/
+src/__pycache__
+
+downloads/
+checkpoint.json
